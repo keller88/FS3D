@@ -1,8 +1,11 @@
-# Few-shot 3D Point Cloud Learning: A Survey
+# A Comprehensive Survey on Few-shot 3D Point Cloud Learning:
+
+Classification, Segmentation and Object Detection
 
 A curated list of papers and resources for **Few-Shot 3D Point Cloud Learning**, accompanying our survey paper:
 
-> **Few-shot 3D Point Cloud Learning: A Survey**  
+> **A Comprehensive Survey on Few-shot 3D Point Cloud Learning:
+> Classification, Segmentation and Object Detection**  
 > **[Paper Link]()** 
 
 This repository collects recent work on few-shot learning for 3D point clouds. We organize methods by three core tasks:
